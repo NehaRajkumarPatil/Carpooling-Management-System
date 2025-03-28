@@ -40,7 +40,9 @@ gcc carpooling.c -o carpooling
 
 ## 📄 File Storage Details
 vehicles.txt → Stores all vehicle data
+
 commuters.txt → Stores all registered commuters
+
 requests.txt → Stores ride requests
 
 ## 💡 Future Enhancements
