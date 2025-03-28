@@ -45,8 +45,10 @@ requests.txt → Stores ride requests
 
 ## 💡 Future Enhancements
 🏷️ Graphical User Interface (GUI)
-📱 Mobile App Support
-💳 Payment Integration
 
+📱 Mobile App Support
+
+💳 Payment Integration
+##
 🔗 GitHub Repository: [Your GitHub Repo Link Here]
 💡 Contributions & Feedback Welcome! 🚀
