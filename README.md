@@ -52,5 +52,4 @@ requests.txt → Stores ride requests
 
 💳 Payment Integration
 ##
-🔗 GitHub Repository: [Your GitHub Repo Link Here]
 💡 Contributions & Feedback Welcome! 🚀
