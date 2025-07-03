@@ -16,11 +16,17 @@ A **Carpooling Management System** in C that allows users to register vehicles, 
 - **File Handling**: Text-based storage for data persistence
 
 ## 📂 Project Structure
+
 📁 Carpooling-Management-System
+
 │── 📄 carpooling.c        # Main source code
+
 │── 📄 vehicles.txt        # Stores vehicle details
+
 │── 📄 commuters.txt       # Stores commuter details
+
 │── 📄 requests.txt        # Stores ride requests
+
 │── 📄 README.md           # Project documentation
 
 ## 🚀 How to Run
