@@ -19,15 +19,15 @@ A **Carpooling Management System** in C that allows users to register vehicles, 
 
 📁 Carpooling-Management-System
 
-│── 📄 carpooling.c        # Main source code
+│── 📄 carpooling.c                                  # Main source code
 
-│── 📄 vehicles.txt        # Stores vehicle details
+│── 📄 vehicles.txt                                  # Stores vehicle details
 
-│── 📄 commuters.txt       # Stores commuter details
+│── 📄 commuters.txt                                 # Stores commuter details
 
-│── 📄 requests.txt        # Stores ride requests
+│── 📄 requests.txt                                  # Stores ride requests
 
-│── 📄 README.md           # Project documentation
+│── 📄 README.md                                     # Project documentation
 
 ## 🚀 How to Run
 1️⃣ Compile the C program
